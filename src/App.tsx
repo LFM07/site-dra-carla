@@ -45,7 +45,7 @@ export default function App() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const whatsappLink = "https://wa.me/5500000000000?text=Olá%20Dra.%20Carla%20Maia,%20vi%20seu%20site%20e%20gostaria%20de%20uma%20consultoria%20previdenciária.";
+  const whatsappLink = "https://wa.me/5521969853866?text=Olá%20Dra.%20Carla%20Maia,%20vi%20seu%20site%20e%20gostaria%20de%20uma%20consultoria%20previdenciária.";
 
   return (
     <div className="min-h-screen bg-brand-dark text-brand-light selection:bg-brand-bronze selection:text-white">
@@ -161,7 +161,7 @@ export default function App() {
               >
                 <div className="relative z-10 aspect-[4/5] rounded-[2rem] overflow-hidden border border-brand-bronze/20 shadow-2xl bg-brand-dark/40 transition-transform duration-500 group-hover:scale-[1.02]">
                   <img 
-                    src="foto-carla.png" 
+                    src="foto-carla.jpeg" 
                     alt="Dra. Carla Maia" 
                     className="w-full h-full object-cover transition-all duration-700 group-hover:scale-105"
                     referrerPolicy="no-referrer"
@@ -265,7 +265,7 @@ export default function App() {
               className="relative order-2 md:order-1"
             >
               <div className="aspect-[3/4] rounded-[2.5rem] overflow-hidden border border-brand-bronze/20 shadow-2xl relative z-10 bg-stone-800 group">
-                <img src="foto-carla.png" 
+                <img src="foto-carla.jpeg" 
                   alt="Dra. Carla Maia" 
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
