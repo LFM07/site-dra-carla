@@ -179,8 +179,8 @@ export default function App() {
                   className="absolute -bottom-6 -left-6 bg-brand-bronze p-6 rounded-2xl shadow-xl z-20 hidden sm:block border border-white/10"
                 >
                   <div className="flex items-center gap-4">
-                    <div className="text-3xl font-serif font-bold text-white leading-none">04+</div>
-                    <div className="text-[10px] uppercase tracking-wider text-white/90 font-bold leading-tight">Anos de<br />Experiência</div>
+                    <div className="text-3xl font-serif font-bold text-white leading-none">Anos de<br />Experiência</div>
+                    <div className="text-[10px] uppercase tracking-wider text-white/90 font-bold leading-tight">Previdenciária</div>
                   </div>
                 </motion.div>
               </motion.div>
@@ -286,10 +286,10 @@ export default function App() {
               <span className="block text-brand-bronze text-sm font-bold mb-8">OAB RJ 237440</span>
               <div className="space-y-6 text-brand-light/70 text-lg leading-relaxed">
                 <p>
-                  Com mais de 04 anos de atuação dedicada ao Direito Previdenciário, minha missão é transformar a vida de quem trabalhou duro a vida toda ou precisa de suporte em momentos de vulnerabilidade.
+                  Com uma atuação especializada e dedicada exclusivamente ao Direito Previdenciário, minha missão é transformar a vida de quem trabalhou duro a vida toda ou precisa de suporte em momentos de vulnerabilidade.
                 </p>
                 <p>
-                  Priorizando a agilidade e a acessibilidade, estabelecemos um modelo de **atendimento 100% digital**, permitindo que brasileiros de qualquer região tenham acesso a uma advocacia de elite sem sair de casa.
+                  Unindo conhecimento técnico de elite e agilidade, estabelecemos um modelo de atendimento 100% digital. Isso permite que brasileiros de qualquer região do país tenham acesso a uma defesa jurídica de excelência, com a conveniência e o conforto de resolver tudo sem sair de casa.
                 </p>
                 <ul className="space-y-3 pt-4">
                   {[
