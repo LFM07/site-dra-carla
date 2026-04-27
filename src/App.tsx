@@ -178,9 +178,9 @@ export default function App() {
                   transition={{ delay: 0.5 }}
                   className="absolute -bottom-6 -left-6 bg-brand-bronze p-6 rounded-2xl shadow-xl z-20 hidden sm:block border border-white/10"
                 >
-                  <div className="flex items-center gap-4">
-                    <div className="text-3xl font-serif font-bold text-white leading-none">Anos de<br />Experiência</div>
-                    <div className="text-[10px] uppercase tracking-wider text-white/90 font-bold leading-tight">Previdenciária</div>
+                  <div className="flex flex-col leading-none">
+                    <div className="text-2xl font-serif font-bold text-white">Direito</div>
+                    <div className="text-lg font-serif italic text-bronze mt-1">Previdenciário</div>
                   </div>
                 </motion.div>
               </motion.div>
@@ -435,3 +435,5 @@ export default function App() {
     </div>
   );
 }
+
+
